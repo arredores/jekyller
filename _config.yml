@@ -11,10 +11,10 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
+    name: Marcelo Stein de Lima Sousa
+    url:  http://pagi.wikidot.com/
     company:
-        name: Famous Inc.
+        name: DACEX | UTFPR
         # url:  http://example.com/
 
 fork_url: https://github.com/shower/shower
